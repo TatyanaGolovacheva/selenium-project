@@ -17,6 +17,6 @@ public class OpenPageTest extends TestCase {
         driver.get("http://software-testing.ru/");
         driver.close();
     }
-
+//тестовая строка
 
 }
